@@ -25,7 +25,7 @@ SECRET_KEY = '#htz*($uscls@)x1-a!4n2z6*#+#iz0#7cfm!we1%*ya5qp(wa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'skyfly.pythonanywhere.com']
+ALLOWED_HOSTS = ['skyfly.pythonanywhere.com']
 
 
 # Application definition
